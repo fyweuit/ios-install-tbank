@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
   <key>items</key>
@@ -11,7 +12,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://www.dropbox.com/scl/fi/akyqc95degb2cprp2a845/Crafts-3.0.1.ipa?rlkey=f14tcgn1mhuy8ra3wag4aw918&ampst=vmimle79&ampdl=1</string>
+          <string>https://www.dropbox.com/s/akyqc95degb2cprp2a845/Crafts-3.0.1.ipa?dl=1</string>
         </dict>
       </array>
       <key>metadata</key>
