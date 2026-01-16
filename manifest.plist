@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
-"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>items</key>
-  <array>
-    <dict>
-      <key>assets</key>
-      <array>
+    <key>items</key>
+    <array>
         <dict>
-          <key>kind</key>
-          <string>software-package</string>
-          <key>url</key>
-          <string>https://downloader.disk.yandex.ru/disk/f3b5bcaa49bc2c9a5818cc2e966d696637efd12dfabf6397a5aebe1d6badce86/696a76a0/USoZgYoXEUi1DYsrlN4WbHx-zxTwhnfn3SnlkNDb2Q5kYDwF994WeYHq6M_S7OkI7L-lUmz7usqqUoFSrh127w%3D%3D?uid=0&amp;filename=Crafts%203.0.1.ipa&amp;disposition=attachment&amp;hash=iRRKAEi4x16zKoPZS%2BTubjdHwCDXPwzIg0D6%2BOcQ%2Bnw76E65K3irn2Z8MMI5zMfgq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&amp;limit=0&amp;content_type=application%2Fzip&amp;owner_uid=773676919&amp;fsize=424589379&amp;hid=96ad07e99a03d26985991ff6f212f444&amp;media_type=compressed&amp;tknv=v3
-</string>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://downloader.disk.yandex.ru/disk/f3b5bcaa49bc2c9a5818cc2e966d696637efd12dfabf6397a5aebe1d6badce86/696a76a0/USoZgYoXEUi1DYsrlN4WbHx-zxTwhnfn3SnlkNDb2Q5kYDwF994WeYHq6M_S7OkI7L-lUmz7usqqUoFSrh127w%3D%3D?uid=0&amp;filename=Crafts%203.0.1.ipa&amp;disposition=attachment&amp;hash=iRRKAEi4x16zKoPZS%2BTubjdHwCDXPwzIg0D6%2BOcQ%2Bnw76E65K3irn2Z8MMI5zMfgq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&amp;limit=0&amp;content_type=application%2Fzip&amp;owner_uid=773676919&amp;fsize=424589379&amp;hid=96ad07e99a03d26985991ff6f212f444&amp;media_type=compressed&amp;tknv=v3</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.craftangle.ar</string>
+                <key>bundle-version</key>
+                <string>3.0.1</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Crafts</string>
+            </dict>
         </dict>
-      </array>
-      <key>metadata</key>
-      <dict>
-        <key>bundle-identifier</key>
-        <string>com.craftangle.ar</string>
-        <key>bundle-version</key>
-        <string>3.0.1</string>
-        <key>kind</key>
-        <string>software</string>
-        <key>title</key>
-        <string>Crafts</string>
-      </dict>
-    </dict>
-  </array>
+    </array>
 </dict>
 </plist>
 
