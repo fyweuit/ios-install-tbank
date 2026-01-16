@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://downloader.disk.yandex.ru/disk/77daf88eb1a3b075af34f1ca42350a61567cc1cbc43f6d42ea7ac1c52c4ac2e3/696a8a1d/USoZgYoXEUi1DYsrlN4WbJvXRGqyRQTrlevbMuobSBG6P3KnWg1XdZOanm1j0t6yUGoiIUtFR9gVv0u2ddCmBw%3D%3D?uid=0&filename=%D0%90%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.ipa&disposition=attachment&hash=6EWRcI34cmutVhqNuxxFpnGK2FePbhF5zh4xllKCGKKFehg%2Bnkvtrk02yO3p0D%2BKq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Fzip&owner_uid=773676919&fsize=190909558&hid=354b0b2b7fda8f1d183e794982965cfd&media_type=compressed&tknv=v3
-</string>
-                </dict>
-            </array>
-            <key>metadata</key>
+    <dict>
+        <key>items</key>
+        <array>
             <dict>
-                <key>bundle-identifier</key>
-                <string>com.craftangle.ar</string>
-                <key>bundle-version</key>
-                <string>3.0.1</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>Crafts</string>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://downloader.disk.yandex.ru/disk/8e2a92d7a19db34098fc0c7c9fcafcd4b76a61ff386806d1241459f91eb53bbd/696a8af7/USoZgYoXEUi1DYsrlN4WbHx-zxTwhnfn3SnlkNDb2Q5kYDwF994WeYHq6M_S7OkI7L-lUmz7usqqUoFSrh127w%3D%3D?uid=0&amp;filename=Crafts%203.0.1.ipa&amp;disposition=attachment&amp;hash=iRRKAEi4x16zKoPZS%2BTubjdHwCDXPwzIg0D6%2BOcQ%2Bnw76E65K3irn2Z8MMI5zMfgq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A&amp;limit=0&amp;content_type=application%2Fzip&amp;owner_uid=773676919&amp;fsize=424589379&amp;hid=96ad07e99a03d26985991ff6f212f444&amp;media_type=compressed&amp;tknv=v3</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.craftangle.ar</string>
+                    <key>bundle-version</key>
+                    <string>3.0.1</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>Crafts</string>
+                </dict>
             </dict>
-        </dict>
-    </array>
-</dict>
+        </array>
+    </dict>
 </plist>
+
 
 
